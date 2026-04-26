@@ -63,9 +63,9 @@ export default function LandingPage() {
         {
           id: "4",          imageSrc: "http://img.b2bpic.net/free-photo/design-ideas-creative-business-innovation-concept_53876-120333.jpg",          imageAlt: "minimalist graphic design studio"},
         {
-          id: "5",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-laptop-puppet-with-copy-space_23-2148697006.jpg",          imageAlt: "minimalist graphic design studio"},
+          id: "5",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-laptop-puppet-with-copy-space_23-2148697006.jpg?_wi=1",          imageAlt: "minimalist graphic design studio"},
         {
-          id: "6",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-laptop-puppet-with-copy-space_23-2148697006.jpg",          imageAlt: "minimalist graphic design studio"},
+          id: "6",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-laptop-puppet-with-copy-space_23-2148697006.jpg?_wi=2",          imageAlt: "minimalist graphic design studio"},
       ]}
     />
   </div>
